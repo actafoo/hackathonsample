@@ -21,12 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/NEXT_HACKATHON-2026-1e3a8a" />
   <img src="https://img.shields.io/badge/교사개발자-도전형-22c55e" />
-  <br>
-  <img src="https://img.shields.io/badge/팀명-팀명을 입력하세요-yellow" />
-  <br>
-  <img src="https://img.shields.io/badge/팀원-홍길동-orange" />
-  <img src="https://img.shields.io/badge/팀원-홍길동-orange" />
-  <img src="https://img.shields.io/badge/팀원-홍길동-orange" />
+  <img src="https://img.shields.io/badge/교사-홍길동-orange" />
 </p>
 
 ![대표 화면](./docs/hero.png) <!-- [필수] 핵심 화면 한 장 (데모 GIF면 더 좋음) -->
