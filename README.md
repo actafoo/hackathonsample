@@ -35,8 +35,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=서울특별시교육청%20교사개발자%20해커톤&desc=[도전형]%20교육%20문제를%20직접%20해결하다&fontColor=ffffff&fontSize=42&fontAlignY=38&descAlignY=60&animation=fadeIn)
 
-
-
 # [프로젝트명]
 
 [한 줄 설명 — 누구의 어떤 문제를 돕는가]
